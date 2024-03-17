@@ -15,7 +15,7 @@ First, clone this repository to your local machine using Git:
 
 ```
 git clone https://github.com/myth-0/footytips
-cd footy-tipping-automation
+cd footytips
 ```
 
 ### Setup a Virtual Environment (Optional but Recommended)
